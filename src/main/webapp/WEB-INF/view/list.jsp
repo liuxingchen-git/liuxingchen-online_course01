@@ -7,8 +7,8 @@
 <title></title>
 </head>
 <body>
-<h1 align="center">
-	Hello-网课第一天
+<h1 align="center" style="color:red">
+	Hello-网课第一天 : maven项目
 </h1>
 </body>
 </html>
